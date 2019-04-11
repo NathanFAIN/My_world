@@ -1,0 +1,15 @@
+text
+*.o
+a.out
+tests
+*.info
+*.gcda
+*.gcno
+reporting
+libmy.a
+test2
+my_world
+NormEZ.rb
+TEST
+MAP
+LYOKO
